@@ -1,0 +1,16 @@
+body
+{
+	/* Background pattern from subtlepatterns.com */
+	/*background-image: url("img/hexellence.png");*/
+	font-size: 20px;
+	  background-color: rgb(179,199,199);
+
+}
+
+#header
+{
+  text-align: center;
+  font-size: 40px;
+  color: rgb(253,71,44);
+
+}
